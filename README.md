@@ -3,7 +3,7 @@
 ## DESCRIPTION 
 This respository is for highschool student groups to collaborate on projects. Each group has thier own folder to work in. 
 
-##Instruction for students 
+## Instruction for students 
 Follow these steps to get started: 
 
 ### 1. **Fork this repository** - One person from each team will fork the repository 
