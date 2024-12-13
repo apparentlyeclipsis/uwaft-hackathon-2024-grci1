@@ -86,7 +86,7 @@ In your now forked repository, you will have a copy of all the necessary informa
 ___________________________________________________________________________________________________________________
 **BRIEF SUBMISSION REQUIREMENTS**
 
-**##TASK 1 - Market Research and Production Defining**
+## **TASK 1 - Market Research and Production Defining**
 1. As a team we will do an activity together to determine a problem and a specific solution
 2. This task requires you to create a 2300 work MAXIMUM PDF (appendix not included) describing the following:
    a. The target audience
@@ -99,14 +99,14 @@ ________________________________________________________________________________
    h. A "Product Specification" Document
 Naming Convention: "UWAFTSubmission_TASK1_GROUP_LETTER_SCHOOL_2024"
 
-**##TASK 2 - Designing the experience of your applicaiton**
+## **TASK 2 - Designing the experience of your applicaiton**
 1. Roughly design your app on a paper prototype
 2. Roughly draw out each screen of your application - think about flow of your app and the function of your features
 3. RECORD A 1.5 MINUTE (MAXIMUM) VIDEO of the entire experience of your app
    a. Ensure that it is in MP4 Format
  Naming Convention: "UWAFTSubmission_TASK2_GROUP_LETTER_SCHOOL_2024"
 
-**##TASK 3 - Developing the Model** 
+## **TASK 3 - Developing the Model** 
 1. Obtain necessary information: 
 Click here to open the code and repository in MATLAB Online:
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=khavian/UWAFT-Highschool-Hackathon---2024&file=ExampleModel.mlx)
@@ -131,7 +131,7 @@ Click here to open the code and repository in MATLAB Online:
       iii. Why did you pick these starting and ending points?
 **Naming Convention of your Conceptualization** - "UWAFTSubmission_Task3.2_GROUP_LETTER_SCHOOLL_2024"**
 
-** ##TASK 4 - User testing and design iteration**
+## **TASK 4 - User testing and design iteration**
  This task requires you to create a 2000 work MAXIMUM PDF (appendix not included) describing the following:
    a. Your testing plan 
       i. What questions did you ask? 
@@ -144,7 +144,7 @@ Click here to open the code and repository in MATLAB Online:
       iv. What are the changes that you will be implementing and why? 
 **Naming Convention: "UWAFTSubmission_TASK4_GROUP_LETTER_SCHOOL_2024"**
 
-**##TASK 5 - VIDEO & Reflection of your application** 
+## **TASK 5 - VIDEO & Reflection of your application** 
 1. **5.1** -  Create a 1.5 minute Maximum Submission (MP4) that includes:
      a. The flow of your design
       b. Explaination of all features
@@ -156,7 +156,7 @@ Click here to open the code and repository in MATLAB Online:
 **Naming convention: " "UWAFTSubmission_TASK5.2_GROUP_LETTER_SCHOOL_2024"**
 
 
-**##TASK 6 - Presentation and Pitch**
+## **TASK 6 - Presentation and Pitch**
 1. As a team we create a elevator pitch and presentation together - there is not point in doing all this work if your app never enters the market! 
 2. **6.1 - Elevator Pitch** - This task requires you to create a 1 minute MAXIMUM MP4 Video describing the following:
    a. The target audience
