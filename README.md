@@ -1,17 +1,17 @@
 # UWAFT-Highschool-Hackathon-2024
 
-##DESCRIPTION 
+## DESCRIPTION 
 This respository is for highschool student groups to collaborate on projects. Each group has thier own folder to work in. 
 
 ##Instruction for students 
 Follow these steps to get started: 
 
-###1. **Fork this repository** - One person from each team will fork the repository 
+### 1. **Fork this repository** - One person from each team will fork the repository 
 
 1. Click the **"Fork"** button in the top-right corner of this repository.
 2. This creates a copy of the repository in your GitHub account.
 
-###2. Add your team members in your folders
+### 2. Add your team members in your folders
 1. Go to settings
 2. Click "collaborators" on the top left side (under General and Access)
 3. In Manage access - click "Add people"
@@ -20,13 +20,13 @@ Follow these steps to get started:
 6. Click the green button "Add __NAME_ to this repository"
 7. ALL YOUR TEAMMEMBERS HAVE ACCESS TO THE GITHUB
    
-###3. Change the title of your Github Folder  
+### 3. Change the title of your Github Folder  
 1. Go to setting (top right)
 2. Go to General
 3. Change "Repository name" to "Group_[YourGroupLetter]_UWAFTHackathon_2024"
 (example: Group_A_WATERLOO_UWAFTHackathon)
 
-###4. Ensure that your folder is PRIVATE during work time 
+### 4. Ensure that your folder is PRIVATE during work time 
 1. Go to settings
 2. Go to Collaborators
 3. Under the "Who has access" section - click "Manage"
@@ -35,30 +35,30 @@ Follow these steps to get started:
 6. Select Private
 7. Follow prompts to confirm 
 
-###5. Create a Mathworks Account 
+### 5. Create a Mathworks Account 
 1. Create an account on mathworks.com (https://www.mathworks.com/)
 2. Click "Sign in" on the top right
 3. Click "Create Account"
 4. Use any email you like ( suggested the one you will expect to use in the future workforce)
 5. Create your account password and confirm - NOW YOU HAVE A MATHWORKS ACCOUNT WOOHOO
 
-###6. Obtain Mathworks Liscence 
+### 6. Obtain Mathworks Liscence 
 1. Click this link "Mathworks License" (https://www.mathworks.com/licensecenter/classroom/4677551/)
 2. Click on "Access MATLAB" - The license will autoamtically be associated with your Mathworks account!
 3. NOW YOU CAN CODE ON MATLAB!
 
-###7. Work on your submissions! They are Due at 5:30 pm 
+### 7. Work on your submissions! They are Due at 5:30 pm 
 1. Once you have completed your content - download it onto your computer
 2. Ensure the proper naming conventions and format of each submission!(Indicated below)
   a. "UWAFTSubmission_TASK#_Group_LETTER_SCHOOL_2024"
 
-###8. UPLOAD YOUR SUBMISSION ON GITHUB 
+### 8. UPLOAD YOUR SUBMISSION ON GITHUB 
 1. In your forked Repository look for the (+) or "Add file" (It is beside the green button that says "<> Code"
 2. Click "Add file"
 3. Click "Upload files"
 4. Insert or Drag the files you want to include 
 
-###9. **5:30 pm Ensure change your fork back to PUBLIC **
+### 9. **5:30 pm Ensure change your fork back to PUBLIC **
 1. Go to the setting page of your fork repository
 2. 2. Go to Collaborators
 3. Under the "Who has access" section - click "Manage"
@@ -67,7 +67,7 @@ Follow these steps to get started:
 6. Select Public
 7. Follow prompts to confirm
 
-###10. Notify UWAFT of your GITHUB TEAM SUBMISSION **NO LATER THAN 5:30pm**
+### 10. Notify UWAFT of your GITHUB TEAM SUBMISSION **NO LATER THAN 5:30pm**
 1. Ensure that your Github Fork is PUBLIC
 2. Chose 1 representative of your group to submit your folder
 3. No changes can be made past the deadline
